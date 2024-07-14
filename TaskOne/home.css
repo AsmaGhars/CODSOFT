@@ -1,0 +1,39 @@
+body{
+    background: #eef0f6;
+    text-align: left;
+}
+
+body.box{
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+
+.box {
+    background-color: #f9f9f9;
+    border: 2px solid #000000;
+    border-radius: 8px;
+    padding: 100px;
+    max-width: 600px;
+    margin-right: 100px;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+
+
+footer{
+    background: rgb(185, 184, 192);
+    color: aliceblue;
+    margin-top: 50px;
+}
+
+h1.title{
+    text-align: center;
+}
+
+header{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
